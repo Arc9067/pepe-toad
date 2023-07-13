@@ -13,7 +13,7 @@ const Footer = () => {
         </div>
 
         <div className="flex items-center gap-6">
-          <a href="" className="">
+          <a href="https://t.me/ToadTokenERC" target="_blank" className="">
             <svg
               width="48"
               height="48"
@@ -34,7 +34,11 @@ const Footer = () => {
               </defs>
             </svg>
           </a>
-          <a href="" className="">
+          <a
+            href="https://twitter.com/ToadTokenERC"
+            target="_blank"
+            className=""
+          >
             <svg
               width="60"
               height="48"
