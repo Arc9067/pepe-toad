@@ -1,0 +1,21 @@
+@import url("https://fonts.cdnfonts.com/css/spicy-rice");
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@font-face {
+  font-family: "tango-bt-regular";
+  src: url("./assets/TangoBT.ttf");
+}
+
+@layer {
+  #hero {
+    background: url(./assets/heroBg.png) center center no-repeat;
+    background-size: cover;
+  }
+  #tokenomics {
+    background: url(./assets/tokenomicsBg.png) center center no-repeat;
+    background-size: cover;
+  }
+}
