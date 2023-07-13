@@ -9,7 +9,7 @@ import Footer from "./Components/Footer";
 const App = () => {
   return (
     <div className="min-h-screen w-full bg-[#64AF5C] relative text-white">
-      <Header />
+      {/* <Header /> */}
       <Hero />
       <About />
       <Photos />

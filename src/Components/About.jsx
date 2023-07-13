@@ -12,15 +12,19 @@ const About = () => {
           className="lg:absolute top-0 left-0 lg:rotate-[-51.79deg]"
         />
         <article className="flex items-center justify-center flex-col text-center gap-5">
-          <h2 className="text-white text-3xl font-special">KNOW ABOUT US</h2>
-          <h1 className="text-white text-7xl font-special">PEPE AND TOAD</h1>
+          <h1 className="text-white text-7xl font-special">Toads Tale</h1>
           <div className="text-center text-white text-2xl font-normal max-w-2xl">
-            Pepe and Toad the memecoin Launched on the ethereum. Our mission is
-            to provide a fun, community-driven investment opportunity that
-            celebrates the power of memes and pop culture. With a vision to
-            become the leading memecoin in the market, we believe Pepe and Toad
-            is the perfect addition to any investor’s portfolio. Join us on this
-            journey to revolutionize the world of memecoins!
+            In a lush green forest there lived a wise frog named Toad. Toad was
+            known for his ability to communicate with all the creatures of the
+            forest. He was respected and admired by everyone, including his
+            friend Pepe, a mischievous and playful little frog. <br />
+            <br />
+            Toad was much bigger than the other amphibians but had a lot to
+            learn from Pepe the frog. Toad approached him with a curious look on
+            his face, “can you help me with something?” <br />
+            <br />
+            Pepe smiled warmly at Toad and replied, "Of course, my dear friend”
+            then the journey began.
           </div>
           <a
             href=""

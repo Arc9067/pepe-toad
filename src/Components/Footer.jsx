@@ -7,9 +7,9 @@ const Footer = () => {
       <div className="container flex flex-col gap-8">
         <img src={Logo2} alt="" className="w-20" />
         <div className="text-white text-2xl font-normal max-w-xl">
-          Our community is growing stronger by the day. Follow us on our social
-          media platforms to get the most up-to-date, and accurate Pepe and Toad
-          information.
+          Our community is filled with frog lovers and amphibian connoisseurs.
+          Follow us on social media to get the most up-to-date and accurate Pepe
+          and Toad news.
         </div>
 
         <div className="flex items-center gap-6">
