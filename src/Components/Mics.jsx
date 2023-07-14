@@ -12,7 +12,7 @@ const Mics = () => {
           <h1 className="font-special text-7xl text-amber-700">Tokenomics</h1>
           <div className="font-special flex-col justify-start items-start gap-[33px] inline-flex">
             <div className="text-white text-[32px] font-normal">
-              Total Supply: 1, 000, 000
+              Total Supply: 201600000
             </div>
             <div className="text-white text-[32px] font-normal">Tax: 1%</div>
           </div>
